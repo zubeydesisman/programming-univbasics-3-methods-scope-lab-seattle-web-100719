@@ -13,5 +13,5 @@ def link
 end
 
 def any_phrase(phrase)
-  
+  var = ""
 end
