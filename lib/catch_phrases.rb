@@ -13,5 +13,6 @@ def link
 end
 
 def any_phrase(phrase)
-  var = ""
+  var = "Do A Barrel Roll!"
+  puts var\n
 end
