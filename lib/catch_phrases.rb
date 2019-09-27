@@ -11,3 +11,5 @@ def link
   note = "It's Dangerous To Go Alone! Take This."
   puts note
 end
+
+def any_phrase(phrase, outputs)
