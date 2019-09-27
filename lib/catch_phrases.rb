@@ -12,4 +12,6 @@ def link
   puts note
 end
 
-def any_phrase(phrase, outputs)
+def any_phrase(phrase)
+  
+end
