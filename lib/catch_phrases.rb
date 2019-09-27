@@ -8,7 +8,7 @@ def toadstool
   puts status
 end
 def link 
-  note = ""
+  note = "It's Dangerous To Go Alone! Take This."
   
   
 end
